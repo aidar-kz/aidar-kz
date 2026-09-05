@@ -5,6 +5,12 @@ Almaty, Kazakhstan · Open to remote opportunities worldwide
 
 I build software with AI agents as part of the engineering workflow—not just as autocomplete. My current focus is **agentic development systems**, model/tool orchestration, local + cloud LLM infrastructure, and AI-assisted software engineering across web and Unreal Engine projects.
 
+## Featured work
+
+- 🤖 **[Agentic Engineering Lab](projects/agentic-engineering-lab.md)** — sanitized case study of my OpenClaw/Hermes/Codex workflow: planner/worker separation, model routing and fallbacks, local inference, context management, observability, validation, and recovery.
+- 🏥 **[MetroMedUC engineering case study](projects/metromeduc.md)** — long-lived healthcare product ownership, framework migrations, modernization, deployment, and AI-assisted development.
+- 🧠 **AI Employee** — local-first SvelteKit prototype that turns goals into structured execution plans with a self-hosted Qwen model; currently being prepared as a public portfolio project.
+
 ## What I work on
 
 - 🤖 **Agentic engineering** — Codex, OpenClaw, Hermes, Claude-based workflows, tool use, model routing, fallbacks, context/session management, and reusable skills.
@@ -14,8 +20,6 @@ I build software with AI agents as part of the engineering workflow—not just a
 - 🐧 **Developer infrastructure** — Linux, Docker, Proxmox, Git, CI/CD, networking, and self-hosted services.
 
 ## Current engineering workflow
-
-A workflow I use frequently is:
 
 1. Define architecture, constraints, and acceptance criteria.
 2. Let a high-capability agent explore the codebase and plan the work.
