@@ -8,8 +8,8 @@ I build software with AI agents as part of the engineering workflow—not just a
 ## Featured work
 
 - 🤖 **[Agentic Engineering Lab](projects/agentic-engineering-lab.md)** — sanitized case study of my OpenClaw/Hermes/Codex workflow: planner/worker separation, model routing and fallbacks, local inference, context management, observability, validation, and recovery.
+- 🧠 **[AI Employee](projects/ai-employee.md)** — local-first SvelteKit agentic planning prototype using a self-hosted Qwen model, with a roadmap toward repository inspection, worker delegation, retries, evaluation, and model routing.
 - 🏥 **[MetroMedUC engineering case study](projects/metromeduc.md)** — long-lived healthcare product ownership, framework migrations, modernization, deployment, and AI-assisted development.
-- 🧠 **AI Employee** — local-first SvelteKit prototype that turns goals into structured execution plans with a self-hosted Qwen model; currently being prepared as a public portfolio project.
 
 ## What I work on
 
